@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-tisjkq.hartawin-pro.online/sitemap.xml
